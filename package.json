@@ -1,8 +1,8 @@
 {
   "name": "hws2",
-  "homepage": "git@github.com:DoctorFetus/doctorfetus.github.io.git",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://DoctorFetus.github.io/doctorfetus.github.io",
   "dependencies": {
     "@emotion/react": "11.10.4",
     "@emotion/styled": "11.10.4",
