@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/doctorfetus.github.io/static/css/main.2283701e.css",
-    "main.js": "/doctorfetus.github.io/static/js/main.a3aa88b3.js",
-    "static/js/787.66cb4309.chunk.js": "/doctorfetus.github.io/static/js/787.66cb4309.chunk.js",
-    "static/media/avatar.png": "/doctorfetus.github.io/static/media/avatar.d947cb9d0d13765666b6.png",
-    "index.html": "/doctorfetus.github.io/index.html",
-    "main.2283701e.css.map": "/doctorfetus.github.io/static/css/main.2283701e.css.map",
-    "main.a3aa88b3.js.map": "/doctorfetus.github.io/static/js/main.a3aa88b3.js.map",
-    "787.66cb4309.chunk.js.map": "/doctorfetus.github.io/static/js/787.66cb4309.chunk.js.map"
+    "main.css": "/homeWork/static/css/main.2283701e.css",
+    "main.js": "/homeWork/static/js/main.51427c8d.js",
+    "static/js/787.66cb4309.chunk.js": "/homeWork/static/js/787.66cb4309.chunk.js",
+    "static/media/avatar.png": "/homeWork/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/homeWork/index.html",
+    "main.2283701e.css.map": "/homeWork/static/css/main.2283701e.css.map",
+    "main.51427c8d.js.map": "/homeWork/static/js/main.51427c8d.js.map",
+    "787.66cb4309.chunk.js.map": "/homeWork/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2283701e.css",
-    "static/js/main.a3aa88b3.js"
+    "static/js/main.51427c8d.js"
   ]
 }
