@@ -1,3 +1,7 @@
+*::-webkit-scrollbar {
+    width: 0;
+}
+
 .App {
     --header_height: 60px;
 }
@@ -21,3 +25,4 @@
     line-height: 27px;
 
 }
+
