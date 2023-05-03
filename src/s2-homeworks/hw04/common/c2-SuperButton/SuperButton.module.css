@@ -19,7 +19,6 @@
     border: 1px #0066CC solid;
     color: #0066CC;
     background-color: white;
-    width: 167px;
 }
 
 .default {
@@ -34,12 +33,10 @@
 
 .default:hover {
     background: #0080FF;
-    width: 167px;
 }
 
 .red:hover {
     background: #FF1A47;
-    width: 167px;
 }
 
 .secondary:hover {
@@ -49,17 +46,14 @@
 
 .default:active {
     background: #0059B3;
-    width: 149px;
 
 }
 
 .secondary:active {
-    width: 149px;
 }
 
 .red:active {
     background: #B31232;
-    width: 149px;
 }
 
 .button:disabled {
