@@ -14,7 +14,7 @@ function Clock() {
         // пишут студенты // запустить часы (должно отображаться реальное время, а не +1)
         // сохранить ид таймера (https://learn.javascript.ru/settimeout-setinterval#setinterval
         const id: number =  +setInterval(() => {
-            setDate(new Date(Date.now()))
+            setDate(new Date())
         }, 1000)
         setTimerId(id)
     }
@@ -66,8 +66,8 @@ function Clock() {
                 <div className={s.more}>
                     {show ? (
                         <>
-                            <span id={'hw9-date'}>{stringDate.format(date)}</span>,{' '}
-                            <span id={'hw9-month'}>{stringMonth.format(date)}</span>
+                            <span id={'hw9-month'}>{stringMonth.format(date)}</span>,{' '}
+                            <span id={'hw9-date'}>{stringDate.format(date)}</span>
                         </>
                     ) : (
                         <>
