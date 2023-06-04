@@ -1,8 +1,23 @@
 .container {
+    margin: 70px;
 }
 
 .wrapper {
+    display: flex;
+    align-items: center;
+    position: relative;
+    margin: 27px 0;
+    width: 245px;
 }
 
 .number {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    margin: 0 12px;
+}
+
+.rightDigit {
+    position: absolute;
+    left: 195px;
 }
