@@ -1,17 +1,22 @@
 .select {
     width: 180px;
-    height: 25px;
-    border: 1px solid #C2C2C2;
-    padding: 2px;
+    height: 36px;
+    /*border: 1px solid #C2C2C2;*/
+    border: 1px solid var(--color);
+    padding: 8px;
     font-family: "Montserrat", sans-serif;
     font-size: 14px;
 }
 
 .select:focus {
-    border: 1px solid #000000;
-    border-radius: 2px;
+    border: 1px solid var(--color);
 }
 
+.option {
+    color: var(--color);
+    background-color: var(--background);
+    border: 1px solid var(--color);
+}
 
 .option:hover {
 }

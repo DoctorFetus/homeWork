@@ -19,5 +19,21 @@ html {
 }
 
 .select {
+    margin-top: 6px;
+    background-color: var(--background);
+    color: var(--color);
+}
 
+.wrapper {
+    margin-left: 70px;
+    margin-top: 33px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.title {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
 }
