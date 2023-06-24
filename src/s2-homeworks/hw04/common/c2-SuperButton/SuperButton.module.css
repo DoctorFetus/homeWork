@@ -8,10 +8,12 @@
     border: none;
     min-height: 30px;
     min-width: 130px;
+    cursor: pointer;
 }
 
 .disabled {
-    background: #004D99;
+    border: #004D99 1px solid;
+    color: #0066CC;
     opacity: 0.5;
 }
 
